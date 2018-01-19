@@ -13,6 +13,7 @@ public class Prototype1 implements Cloneable, Serializable {
     private SerializableObject obj;
 
     /* 浅复制 */
+    @Override
     public Object clone() throws CloneNotSupportedException {
         Prototype proto = (Prototype) super.clone();
         return proto;
