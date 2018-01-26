@@ -1,4 +1,4 @@
-package templateMethodMode.tip;
+package templateMethodMode;
 
 public class Plus extends AbstractCalculator {
 

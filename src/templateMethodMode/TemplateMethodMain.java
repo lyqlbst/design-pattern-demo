@@ -1,4 +1,4 @@
-package templateMethodMode.tip;
+package templateMethodMode;
 
 /**
  * Created by LinYuQiang on 2018/1/19 0019.
