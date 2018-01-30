@@ -1,4 +1,4 @@
 ### IntelliJ IDEA ###
 /.idea
-*.iml
+/design-patterns-demo.iml
 /out
