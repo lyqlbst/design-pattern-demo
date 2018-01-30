@@ -1,4 +1,4 @@
-package MementoMethode;
+package mementoMethode;
 
 /**
  * Created by LinYuQiang on 2018/1/22 0022.

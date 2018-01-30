@@ -1,4 +1,4 @@
-package MementoMethode;
+package mementoMethode;
 
 public class Memento {
       

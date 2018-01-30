@@ -1,4 +1,4 @@
-package MementoMethode;
+package mementoMethode;
 
 public class Original {
       
@@ -16,8 +16,8 @@ public class Original {
         this.value = value;  
     }  
   
-    public Memento createMemento(){  
-        return new Memento(value);  
+    public Memento createMemento(){
+        return new Memento(value);
     }  
       
     public void restoreMemento(Memento memento){  
